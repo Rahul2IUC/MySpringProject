@@ -1,5 +1,6 @@
 HELP.md
 target/
+src/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -47,4 +48,6 @@ build/
 ### OS
 .DS_Store
 Thumbs.db
+
+
 
